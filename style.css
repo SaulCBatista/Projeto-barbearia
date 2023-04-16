@@ -266,4 +266,10 @@ td, th {
     .listaBeneficios, .imagemBeneficios {
         width: 100%;
     }
+
+    .produtos li {
+        display: block;
+        width: auto;
+        margin: 2.5%;
+    }
 }
